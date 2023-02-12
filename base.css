@@ -4,14 +4,19 @@ body {
     padding: 1rem;
 }
 
-.jsBox {
+.jsBoxContainer {
     margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
+    bottom: 0%;
+    position: fixed;
+    width: 60%;
+}
+
+.jsBox {
     margin-bottom: 0.75rem;
     padding: 1rem;
     background-color: black;
     color: white;
-    width: 60%;
-
 }
 
 .jsMessage {
