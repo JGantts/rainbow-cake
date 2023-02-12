@@ -5,5 +5,5 @@ myButton1.onclick = function() {
     say("myButton1.onclick end")
 }
 
-versionNumber.innerHTML = "v1.0.1"
+versionNumber.innerHTML = "v1.0.3"
 say("main.js loaded")
